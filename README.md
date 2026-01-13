@@ -5,7 +5,7 @@ I am an engineering student passionate about building efficient systems, from **
 
 ## 🚀 Featured Projects
 
-### 💳 [Corporate Spend Approval Engine](LINK_TO_REPO_IF_PUBLIC)
+### 💳 [Corporate Spend Approval Engine](https://github.com/haseeb00677/corporate-spend-approval-engine.git)
 *A multi-tier financial approval system mirroring Brex/Ramp.*
 *   **Tech:** Python, Flask, SQL, REST APIs
 *   **Key Feat:** Architected dynamic approval routing (<$50 auto-approve, >$500 VP review) and implemented fraud detection algorithms for duplicate transactions.
