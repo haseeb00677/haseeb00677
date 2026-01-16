@@ -15,7 +15,7 @@ I am an engineering student passionate about building efficient systems, from **
 *   **Tech:** C++, Arduino, AutoCAD
 *   **Key Feat:** Engineered firmware for bidirectional motor control and sensor integration to navigate complex obstacle courses.
 
-### ⚛️ [2D Physics Simulation Engine](LINK_TO_REPO_IF_PUBLIC)
+### ⚛️ [2D Physics Simulation Engine](https://github.com/haseeb00677/PhysicsEngine.git)
 *A high-performance physics engine built from scratch.*
 *   **Tech:** C++, SFML, Math
 *   **Key Feat:** Optimized collision detection and memory management to maintain 60 FPS with 50+ concurrent objects.
